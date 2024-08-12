@@ -1,4 +1,4 @@
--  Hi, I’m @devalrajunagachandrapraveen
+-  Hi, I’m @Devalraju Naga Chandra Praveen
 -  I’m interested in coding
 -  I’m currently learning python full developer
 -  Language: Python
